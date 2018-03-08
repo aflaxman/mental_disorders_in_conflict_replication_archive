@@ -1,6 +1,0 @@
-numpy==1.11
-pandas==0.18.0
-pymc==2.3.4
-matplotlib==1.8
-networkx==2.1
--e git+https://github.com/ihmeuw/dismod_mr.git#egg=dismod_mr
