@@ -1,10 +1,9 @@
-name: dismod_env
 dependencies:
-  - python=2.7
-  - numpy=1.10
-  - pandas=0.18
+  - numpy=1.14
+  - pandas=0.22
   - pymc=2.3.6
   - matplotlib=2.1.1
-  - networkx==2.1
+  - networkx=2.1
+  - xlrd=1.1
   - pip:
     - -egit+https://github.com/ihmeuw/dismod_mr.git#egg=dismod_mr
